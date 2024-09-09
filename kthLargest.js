@@ -8,6 +8,6 @@
 
 const arr= [3, 2, 1, 5, 6, 4];
 k=2;
-const myArr=arr.sort((a,b)=>b-a); 
+const myArr=arr.sort((a,b)=>b-a); //Decending order
 
 console.log("Kth largest element:"+myArr[k-1]);
