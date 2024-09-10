@@ -24,3 +24,11 @@ function MissingNumber(arr) {
   const  arr = [1, 2, 4, 5];
 
   console.log("Missing Number :",MissingNumber(arr));
+
+  const arr1=[2, 3, 4, 5]
+console.log("Missing Number :",MissingNumber(arr1));
+
+const arr2=[1, 2, 3, 4]
+console.log("Missing Number :",MissingNumber(arr2));
+const arr3= [1]
+console.log("Missing Number :",MissingNumber(arr3));
